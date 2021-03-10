@@ -1,8 +1,4 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-; Name: Khaled Hassan
-; Student Number: 400203796
-; Lab Section: L06
 ; Description of Code: This code allows User LED D3 To Turn On when a button is pressed, and Off when the button is released
 ; Last Modified: 03 February 2021
  
