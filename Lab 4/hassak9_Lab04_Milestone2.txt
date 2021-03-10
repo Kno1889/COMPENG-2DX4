@@ -1,7 +1,4 @@
 //  SysTick_Wait10ms() changed back to 10ms, not 0.1 ms
-
-//  Written by Khaled Hassan - hassak9
-//  400203796
 //  This program initiates clockwise and counterclockwise spins of the stepper motor, depending on
 //  values specified
 
