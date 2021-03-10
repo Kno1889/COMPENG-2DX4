@@ -1,6 +1,3 @@
-
-//  Written by Khaled Hassan
-//  400203796
 //  this program cycles through duty cycles of an offboard RGB LED, from 10% to 100% and back to 10%
 //  each duty cycle takes 10ms 
 
