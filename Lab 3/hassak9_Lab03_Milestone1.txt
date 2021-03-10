@@ -1,7 +1,4 @@
 // 2DX4 Lab 3: Analog Signals
-// By Khaled Hassan
-// 400203796
-// hassak9
 
 #include <stdint.h>
 #include "tm4c1294ncpdt.h"
