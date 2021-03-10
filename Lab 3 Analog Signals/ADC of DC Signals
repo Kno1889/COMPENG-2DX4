@@ -1,4 +1,6 @@
 // 2DX4 Lab 3: Analog Signals
+// Code Description: Using Kiel's debugger mode to identify how analog input is stored in memory
+// Using an AD2 module, voltages of 0V to 3.3V are input to the micro, and Kiel's debugger mode displays their values in memory registers.
 
 #include <stdint.h>
 #include "tm4c1294ncpdt.h"
