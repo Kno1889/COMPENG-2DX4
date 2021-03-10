@@ -1,8 +1,4 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-; Name: Khaled Hassan
-; Student Number: 400203796
-; Lab Section: L06
 ; Description of Code: D1 represent susccessful load and D2 represents unsuccessful load of parallel sequential lock
 
 ; Original: Copyright 2014 by Jonathan W. Valvano, valvano@mail.utexas.edu
