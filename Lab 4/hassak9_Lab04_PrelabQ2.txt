@@ -1,6 +1,4 @@
 
-//  Written by Khaled Hassan
-//  hassak9 - 400203796
 // this code flashes onboard LED D1 for a period of 0.5s at a duty cycle of 50%
 #include <stdint.h>
 #include "tm4c1294ncpdt.h"
