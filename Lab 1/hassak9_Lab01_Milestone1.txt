@@ -1,7 +1,4 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-; Name: Khaled Hassan; 
-; Student Number: 400203796
 ; Lab Section: L06
 ; Description of Code: This code allows User LED D2 To Blink (Port N Pin 0) 
 ; Last Modified: February 03rd 2021
