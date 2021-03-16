@@ -8,7 +8,7 @@
 #include "Systick.h"
 #include "PLL.h"
 
-void Bit4Rep(int eightCode);
+void Bit4Rep(int eightCode); // function declaration
 
 int Bit8Code = 0b00000000;
 int Bin4Code = 0b0000;
