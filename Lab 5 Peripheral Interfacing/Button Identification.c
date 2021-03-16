@@ -1,8 +1,7 @@
 // Lab 5: Peripheral Interfacing
 // Decoding a Button Press
-// This program illustrates detecting and decoding a single button press.
-//
-// Khaled Hassan, 400203796, hassak9
+// This program illustrates detecting and decoding a single button press. Each button corresponds to a unique, hard-coded 8-bit code holding at most 2 0's, depending on the 
+// row/column combination. 
 
 #include <stdint.h>
 #include "tm4c1294ncpdt.h"
