@@ -1,8 +1,7 @@
 // Lab 5: Peripheral Interfacing
 // Decoding a Button Press
-// This program illustrates detecting a single button press.
+// This program illustrates detecting a single button press. The 4-bit codes stored in memory are used to light up offboard LEDs to display the binary value of the button   // pressed. 
 //
-// Khaled Hassan, 400203796, hassak9
 
 #include <stdint.h>
 #include "tm4c1294ncpdt.h"
